@@ -50,4 +50,4 @@ To run the calculator, you need the following libraries:
 
 ## License
 
-This project is licensed under the [MIT License](link to the license).
+This project is licensed under the [MIT License](LICENSE).
